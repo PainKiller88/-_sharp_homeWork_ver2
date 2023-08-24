@@ -1,0 +1,15 @@
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\bin\Debug\net6.0\task3.exe
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\bin\Debug\net6.0\task3.deps.json
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\bin\Debug\net6.0\task3.dll
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\bin\Debug\net6.0\task3.pdb
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.dll
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\refint\task3.dll
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.pdb
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+F:\2022 GekBrains\C#\Seinar ver.2\seminar2\task3\obj\Debug\net6.0\ref\task3.dll
