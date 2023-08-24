@@ -16,9 +16,10 @@ string GetTable(int num)
     string result = "";
     while (count <= num)
     {
-        result += $"(Math.Pow(count, 2))";
+        result += $"{Math.Pow(count, 2)}";
         if (count < num) result += ",";
         else result += ".";
+        count++;
 
     }
     return result;
