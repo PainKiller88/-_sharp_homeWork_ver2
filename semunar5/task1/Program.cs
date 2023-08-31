@@ -3,11 +3,11 @@
 // [-4, -6, 89, 6] -> 0
 
 Console.Clear();
-// Метод для запроса у пользователя длины массива
+// Метод запроса ввода данных у пользователя
 int GetUserInput(string message)
 {
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine(message);
+    return int.Parse(Console.ReadLine()!);
 }
 //Метод для запроса у пользователя длины массива
 int[] FillArray(int length) 
